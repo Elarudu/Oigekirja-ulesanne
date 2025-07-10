@@ -1,0 +1,1 @@
+Selles projektis tegin ma 10 küsimusega õigekirja testi, mis käsitleb kokku- ja lahkukirjutamist. Test salvestab vastused ja lõpus annab inimesele tagasisidet selle kohta, kui mitu punkti ta sai, mitu protsenti ja mis tema hinne oleks
